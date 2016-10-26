@@ -1,4 +1,4 @@
 *.DS_Store
 *.pyc
-
+*.js.map
 node_modules
